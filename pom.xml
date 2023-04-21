@@ -6,12 +6,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
   <artifactId>spring1</artifactId>
-  <packaging>pom</packaging>
-  <version>1.0-SNAPSHOT</version>
   <name>spring1</name>
-  <url>http://www.example.com</url>
   <description>spring  framework using spring boot</description>
-
+  <version>${project.version}</version>
+  <packaging>pom</packaging>
 
   <modules>
     <module>spring1-api</module>
@@ -26,6 +24,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
+    <project.version>1.0-SNAPSHOT</project.version>
   </properties>
 
   <dependencies>

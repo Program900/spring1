@@ -12,5 +12,8 @@
         <module name="spring1-ui" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring1-parent1" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
