@@ -8,7 +8,7 @@
   <artifactId>spring1</artifactId>
   <name>spring1</name>
   <description>spring  framework using spring boot</description>
-  <version>${project.version}</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
