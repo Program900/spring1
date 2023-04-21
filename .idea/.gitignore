@@ -1,4 +1,6 @@
 ../target/
+*/target/**
+**/META -INF/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -21,6 +23,7 @@
 .settings
 .springBeans
 .sts4-cache
+/logs/
 
 ### NetBeans ###
 /nbproject/private/

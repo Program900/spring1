@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e53a9b1-2953-494a-8924-58442f38a0d3" name="Changes" comment="First">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring1-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring1-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring1-parent1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring1-api/target/spring1-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring1-api/target/spring1-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring1-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring1-common/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring1-common/target/spring1-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring1-common/target/spring1-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring1-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring1-parent/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring1-parent/target/spring1-parent-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring1-parent/target/spring1-parent-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring1-ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring1-ui/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring1-ui/target/spring1-ui-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring1-ui/target/spring1-ui-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682085804626</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First">
+      <created>1682086468833</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682086468833</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
